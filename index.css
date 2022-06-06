@@ -1,0 +1,18 @@
+.section {
+  margin: 10% 70% 10% 5%;
+}
+
+.login-box {
+  width: 2000px;
+  height: 2000px;
+  color: #000;
+  top: 8%;
+  left: 90%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 2500px 30px;
+}
+.copy {
+  margin: 200px 10px 1px 50px;
+}
